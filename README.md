@@ -48,6 +48,7 @@ I'm Ayana, a software developer who genuinely enjoys building technology that so
 ### IoT & Embedded
 
 <p>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-323330?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
