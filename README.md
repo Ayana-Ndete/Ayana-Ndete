@@ -64,6 +64,10 @@ I'm Ayana, a software developer who genuinely enjoys building technology that so
 
 # 📈 GitHub Statistics
 
+<p align="center">
+  <img src="./profile/stats.svg" alt="Ayana's GitHub stats"/>
+  <img src="./profile/top-langs.svg" alt="Ayana's Top Languages"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayana-ndete&theme=tokyonight&hide_border=true"/>
