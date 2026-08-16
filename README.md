@@ -70,7 +70,7 @@ I'm Ayana, a software developer who genuinely enjoys building technology that so
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayana-ndete&theme=tokyonight&hide_border=true"/>
+  <img src="./profile/streak.svg" alt="Ayana's GitHub Streak"/>
 </p>
 
 <p align="center">
